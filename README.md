@@ -1,0 +1,1 @@
+Analyzed patient lab and vital data to identify risk factors for Chronic Kidney Disease (CKD). Cleaned the dataset, created PivotTables and charts in Excel, and visualized key trends using Power BI. Findings highlight the impact of hypertension, diabetes, albumin, and serum creatinine on CKD prevalence.
